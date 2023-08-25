@@ -20,20 +20,20 @@ Be sure to follow my journey here on GitHub. Let's connect, learn, and create so
 
 
 <!--<div align="center">
-  <a href="https://github.com/Telles01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Telles01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telles01&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/pmoret24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmoret24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoret24&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
   
   <p align="center">
-    <a href="https://github.com/Telles01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Telles01&theme=black-ice&hide_border=true&stroke=0000&background=0d1117"/>  
+    <a href="https://github.com/pmoret24/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=pmoret24&theme=black-ice&hide_border=true&stroke=0000&background=0d1117"/>  
     </a>
 </p>
   
   <br/>
-    <a href="https://github.com/Telles01/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Telles01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Telles01/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telles01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pmoret24/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=pmoret24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pmoret24/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoret24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -51,7 +51,7 @@ Be sure to follow my journey here on GitHub. Let's connect, learn, and create so
   
 </div>
   <br/>
-  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="Bernard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
+  <a href="https://github.com/pmoret24/github-readme-activity-graph"><img alt="Pedri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pmoret24&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
   
   <!--<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
   <br/>
@@ -60,7 +60,7 @@ Be sure to follow my journey here on GitHub. Let's connect, learn, and create so
  ##
  <div>
    
-   ![Snake animation](https://github.com/Telles01/Telles01/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/pmoret24/pmoret24/blob/output/github-contribution-grid-snake.svg)
   
   
   
