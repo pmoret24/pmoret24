@@ -27,24 +27,6 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
    
-  
-</div>
-  <br/>
-  <a href="https://github.com/pmoret24/github-readme-activity-graph"><img alt="Pedri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pmoret24&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
-  
-  <!--<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-  <br/>
-   
- 
- ##
- <div>
-   
-   ![Snake animation](https://github.com/pmoret24/pmoret24/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
- </div>
-
 
 
 <!--I'm a Software Engineer, that has been working as a developer since 2018. 💻-->
