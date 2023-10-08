@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Victor Barbosa</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Pedro Moretzsohn</h1></summary>
   </ul>
 </div>
 
@@ -18,8 +18,8 @@
 
 - :school: I am a `Full Stack Software Developer`
 - :technologist: **Currently working on** `Full-Stack Development` **&** `Ruby on Rails`
-- :boom: You can visit [my website](https://victorbarbosa.com) for more info
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OSuricato&amp;color=EA4335&amp;style=flat-square)](mailto:victor@victorbarbosa.com)
+- :boom: You can visit [my website](https://www.linkedin.com/in/pedro-moretzsohn/) for more info
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=pmoret&amp;color=EA4335&amp;style=flat-square)](mailto:p.moretzsohn24@gmail.com)
 
 <br>
 
